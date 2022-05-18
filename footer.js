@@ -23,7 +23,3 @@ let myFooter = `
   
 </html>`
 document.write(myFooter);
-
-
-
-
